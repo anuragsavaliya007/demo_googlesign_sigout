@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "694499203475",
+    "project_id": "sign-and-signout",
+    "storage_bucket": "sign-and-signout.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694499203475:android:15999b150a1c8c8a9d3066",
+        "android_client_info": {
+          "package_name": "com.example.demo_googlesign_sigout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694499203475-p8o21dr448573hht417ta0l6nedqq6b5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY7sdyqIO0efdUtqqD8zMW56IZVyly71k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694499203475-p8o21dr448573hht417ta0l6nedqq6b5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
